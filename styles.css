@@ -95,7 +95,7 @@ background-image: url("images/kick.png");
     text-align: left;
   }
 
-  @media (max-width: 640px) {
+  @media (max-width: 510px) {
     button {
       text-align: center;
       position: static;
